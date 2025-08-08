@@ -11,7 +11,7 @@ Para rodar o projeto siga as instruções a seguir:
 
 2 - Clique com o botão direito do mouse no arquivo index.html e em seguida escolha a opção abrir com live server;
 
-3 - Pronto será aberto uma aba no seu navegador com o projeto amigo secreto e você já poderá usá-lo.
+3 - Pronto será aberto uma aba no seu navegador com o jogo do elevador e você já poderá usá-lo.
 
 ## 🛠️ Tecnologias
 <div align="left">
