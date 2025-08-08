@@ -1,5 +1,5 @@
-import { criarFaixas } from "./rua.js";
-import { criarPavimentos, criarElevador, aplicarControlesNoElevador } from "./predio.js";
+import { criarFaixas } from "./js/rua.js";
+import { criarPavimentos, criarElevador, aplicarControlesNoElevador } from "./js/predio.js";
 
 window.addEventListener("DOMContentLoaded", () => {
   criarFaixas();
